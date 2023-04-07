@@ -307,3 +307,13 @@ The files are being extracted in this step.
 ![install-git-on-windows9](https://user-images.githubusercontent.com/55878408/205210612-572f7f00-fa07-4b49-b547-a86c75e76b46.png)
 
 Therefore, The Git installation is completed. Now you can access the Git Gui and Git Bash.
+
+
+
+
+
+
+
+
+###references
++ ineron 
