@@ -314,6 +314,5 @@ Therefore, The Git installation is completed. Now you can access the Git Gui and
 
 
 
-
-###references
+### references
 + ineron 
